@@ -99,6 +99,7 @@ class MainActivity : AppCompatActivity() {
                     println(allDay)
                     println(organizer)
                     println("アイウエオ")
+
                 }
             }
         }
